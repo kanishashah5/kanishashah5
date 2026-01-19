@@ -59,33 +59,72 @@ Create positive impact
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kanishashah5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=EC4899&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishashah5&theme=tokyonight&hide_border=true&background=1A1B27&ring=6366F1&fire=EC4899&currStreakLabel=EC4899" alt="GitHub Streak" /> </div> <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishashah5&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=1A1B27&title_color=6366F1&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishashah5&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=6366F1&line=EC4899&point=FFFFFF" alt="Contribution Graph" /> </div>
 🏆 Achievements & Recognition
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kanishashah5&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" /> </div>
-💼 Skills Overview
+💼 Skills & Expertise Overview
+<div align="center"> <table> <tr> <td width="50%" valign="top">
+🎨 Frontend Development
+const frontendSkills = {
+  frameworks: ['React', 'Next.js'],
+  languages: ['JavaScript', 'TypeScript'],
+  styling: ['CSS3', 'Tailwind', 'Bootstrap'],
+  tools: ['Webpack', 'Vite', 'npm/yarn'],
+  proficiency: '95%'
+};
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,jquery" /> </td> <td width="50%" valign="top">
+⚙️ Backend Development
+backend_skills = {
+    'languages': ['Python', 'JavaScript'],
+    'frameworks': ['Django', 'Flask', 'Express'],
+    'api': ['REST', 'GraphQL'],
+    'proficiency': '95%'
+}
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,fastapi" /> </td> </tr> <tr> <td width="50%" valign="top">
+🤖 Machine Learning & AI
+ml_expertise = {
+    'frameworks': ['TensorFlow', 'PyTorch', 'Keras'],
+    'libraries': ['Scikit-learn', 'OpenCV'],
+    'domains': ['Deep Learning', 'Computer Vision', 'NLP'],
+    'tools': ['Pandas', 'NumPy', 'Matplotlib'],
+    'proficiency': '90%'
+}
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> <br> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) </td> <td width="50%" valign="top">
+🗄️ Database & Storage
+-- Database Expertise
+SELECT * FROM skills WHERE category = 'Database';
+/* 
+MySQL, PostgreSQL, MongoDB, Redis
+Proficiency: 90%
+*/
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" /> </td> </tr> <tr> <td width="50%" valign="top">
+🏢 ERP & Business Solutions
+erp_expertise = {
+    'platform': 'ERPNext',
+    'framework': 'Frappe',
+    'specialization': [
+        'Custom Apps Development',
+        'Business Process Automation',
+        'ERP Customization',
+        'Workflow Integration'
+    ],
+    'proficiency': '98%'
+}
+
+</td> <td width="50%" valign="top">
+🛠️ DevOps & Tools
+devops:
+  version_control: [Git, GitHub]
+  containerization: [Docker]
+  os: [Linux, Ubuntu]
+  ci_cd: [GitHub Actions, Jenkins]
+  proficiency: 85%
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" /> </td> </tr> </table>
+📊 Proficiency Levels
 <div align="center">
-Domain
-Technologies
-Proficiency
-Frontend
-React, JavaScript/TypeScript, HTML/CSS
-████████████ 95%
-Backend
-Python, Django, Flask, Node.js
-████████████ 95%
-ERP Systems
-ERPNext, Frappe Framework
-████████████ 98%
-Machine Learning
-TensorFlow, PyTorch, Scikit-learn
-███████████░ 90%
-Databases
-MySQL, PostgreSQL, MongoDB
-███████████░ 90%
-DevOps
-Git, Docker, Linux, CI/CD
-██████████░░ 85%
-Cloud & Deployment
-AWS, GCP, Azure
-████████░░░░ 75%
-</div>
+</div> </div>
 🎯 Current Focus Areas
 <table align="center"> <tr> <td align="center" width="50%"> <h3>🔭 Active Projects</h3> <br> <p align="left"> ✅ <b>AI-Powered ERP Modules</b><br> &nbsp;&nbsp;&nbsp;&nbsp;Integrating ML capabilities into ERPNext<br><br> ✅ <b>Predictive Analytics Platform</b><br> &nbsp;&nbsp;&nbsp;&nbsp;ML-driven business intelligence dashboard<br><br> ✅ <b>Full-Stack SaaS Applications</b><br> &nbsp;&nbsp;&nbsp;&nbsp;Modern web apps with React & Django<br><br> ✅ <b>Open Source Contributions</b><br> &nbsp;&nbsp;&nbsp;&nbsp;Contributing to Frappe ecosystem </p> </td> <td align="center" width="50%"> <h3>🌱 Learning & Growth</h3> <br> <p align="left"> 📖 <b>Advanced ML Architectures</b><br> &nbsp;&nbsp;&nbsp;&nbsp;Transformers, Vision Models, GANs<br><br> 📖 <b>MLOps & Model Deployment</b><br> &nbsp;&nbsp;&nbsp;&nbsp;Production ML systems at scale<br><br> 📖 <b>System Design Patterns</b><br> &nbsp;&nbsp;&nbsp;&nbsp;Microservices & distributed systems<br><br> 📖 <b>Cloud Architecture</b><br> &nbsp;&nbsp;&nbsp;&nbsp;AWS, GCP, Azure best practices </p> </td> </tr> </table>
 🌟 Featured Projects
