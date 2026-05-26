@@ -220,20 +220,6 @@ mindmap
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-> 📌 **To display pinned project cards here, replace `your-repo-name` with your actual repository names:**
-
-```
-https://github-readme-stats.vercel.app/api/pin/?username=kanishashah5&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6366F1&icon_color=EC4899&text_color=FFFFFF
-```
-
-Go to your GitHub profile → click **"Customize your pins"** → pin your best repos → paste their names above.
-
-</div>
-
 ---
 
 ## 💡 What I'm Currently Focused On
